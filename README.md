@@ -9,4 +9,4 @@ user.
 ○ Propose actionable steps for the user to improve, such as suggested topics, 
 question types, or difficulty levels to focus on.
 
-I completed All the tasks just go through my code
+I completed All the tasks just go through my code and I got the accuracy upto 96%
